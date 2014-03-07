@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="Qt">
+   <recordtable>
+    <record dir="0000000001" url="" tags="MyTetra, Qt" author="" id="1" ctime="20081210124656" name="Welcome to MyTetra!" file="text.html"/>
+   </recordtable>
+   <node id="1394199692rsp782atiy" name="Получение данных с сайта">
+    <recordtable>
+     <record dir="1394199984ov8fmksifc" crypt="0" url="http://pro-prof.com/archives/1034" tags="" author="" id="1394199984zu95x1pamx" ctime="20140307194624" name="Получение данных с сайта. Шаблон Producer/Consumer [Qt, C++]" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
