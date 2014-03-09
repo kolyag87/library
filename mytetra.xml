@@ -10,7 +10,6 @@
    <node id="1394199692rsp782atiy" name="Получение данных с сайта">
     <recordtable>
      <record dir="1394199984ov8fmksifc" crypt="0" url="http://pro-prof.com/archives/1034" tags="" author="" id="1394199984zu95x1pamx" ctime="20140307194624" name="Получение данных с сайта. Шаблон Producer/Consumer [Qt, C++]" file="text.html"/>
-     <record dir="13942048589rnv6i9gw6" crypt="0" url="http://habrahabr.ru/post/131472/" tags="" author="" id="1394204858un9p77qogc" ctime="20140307210738" name="Простой сервер на Qt/C++" file="text.html"/>
     </recordtable>
    </node>
   </node>
